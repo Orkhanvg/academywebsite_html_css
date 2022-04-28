@@ -1,0 +1,198 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.main{
+    margin: 30px, 0px, 0 px, 180px;
+}
+
+.tedr{
+    float: left;
+    width: 600px;
+    height: 500px;
+}
+
+.tedr2{
+    float: left;
+    width: 600px;
+    height: 500px;
+}
+
+.tedris {
+    font-weight: bolder;
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(75, 74, 74);
+}
+
+.saheleri {
+    font-size: 40px;
+    line-height: 10px;
+    letter-spacing: 4.2px;
+    color: rgb(75, 74, 74);
+}
+.main .ted img {
+
+    margin-top: 80px;
+}
+
+.cont {
+    margin-top: 80px;
+    margin-right: 180px;
+    color: rgb(44, 44, 44);
+
+}
+
+.marketing{
+    float: left;
+    width: 300px;
+    height: 250px;
+    border:1px;
+    border-color: #5e5e5e;
+    border-style: solid;
+    padding: 15px;
+
+}
+
+.design {
+    float: left;
+    width: 300px;
+    height: 250px;
+    border: 1px;
+    border-color: #d7d7d7;
+    border-style: solid;
+    padding: 15px;
+}
+
+.programming {
+    float: left;
+    width: 300px;
+    height: 250px;
+    border: 1px;
+    border-color: #b8b8b8;
+    border-style: solid;
+    padding: 15px;
+}
+
+.system {
+    float: left;
+    width: 300px;
+    height: 250px;
+    border: 1px;
+    border-color: #b8b8b8;
+    border-style: solid;
+    padding: 15px;
+}
+
+.main .tedr2 p {
+    color: rgb(44, 44, 44);
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.marketing:hover {
+    width: 320px;
+    height: 270px;
+    background-color: blueviolet;
+    position: absolute;
+}
+.design:hover {
+    width: 320px;
+    height: 270px;
+    background-color: yellow;
+    position: absolute;
+}
+
+.programming:hover {
+    width: 320px;
+    height: 270px;
+    background-color: darkturquoise;
+    position: absolute;
+}
+
+.system:hover {
+    width: 320px;
+    height: 270px;
+    background-color: green;
+    position: absolute;
+}
+
+.page2{
+    clear:left;
+    margin: 300px, 0px, 0px, 180px;
+}
+
+.text2 {
+    margin-top: 80px;
+    margin-right: 900px;
+}
+
+.line {
+    margin-top: 80px;
+}
+
+.niye {
+    padding-top: 100px;
+    font-size: 60px;
+    font-family: sans-serif;
+    letter-spacing: 8.2px;
+    color: rgb(75, 74, 74);
+}
+.academy {
+    font-weight: bolder;
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(75, 74, 74);
+    line-height: 30px;
+}
+
+.text2 {
+    color: rgb(75, 74, 74);
+}
+
+.haqqinda{
+    margin: 80px 0px 30px 180px;
+}
+
+.part1{
+    float: left;
+    width: 600px;
+    height: 600px;
+
+}
+
+.part2 {
+    float: left;
+    width: 600px;
+    height: 600px;
+
+}
+
+.part1 img {
+    float: left;
+}
+.haqqinda a {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.haqqinda p {
+
+    margin: 30px 30px 30px 30px;
+}
+.part2 img {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
